@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OpenSea NFT downloader output
+metadata/
+images/
+
+# Local config examples/backups
+*.local
+*.bak
